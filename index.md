@@ -2,7 +2,7 @@
 layout: default
 title: "Inicio"
 ---
-<h1>Bienvenido a mi blog</h1>
+<h1>Posts Recientes</h1>
 
 <ul>
 {% for post in site.posts %}
